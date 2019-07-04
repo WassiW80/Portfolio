@@ -1,0 +1,37 @@
+.site-header {
+	background-image: url(http://dreamstop.com/wp-content/uploads/2012/06/what-do-dreams-mean1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    color: #ff5e00;
+	height: 100vh; 
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content {
+    margin: 10px;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.profile-pic{
+	border-radius: 50%;
+	height: 150px;
+    width: 150px;
+    box-shadow: #0000009f 2px 5px 5px;
+}
+
+body{
+	margin: 0;
+}
+
+.link-content{
+    background-image: url(https://www.contractingbusiness.com/sites/contractingbusiness.com/files/uploads/2015/05/hands-shaking.jpg);
+    background-position: center;
+    background-size: cover;
+}
